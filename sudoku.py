@@ -73,7 +73,8 @@ def input_sudoku():
         sudoku.append(line)
     #print(sudoku)
 
-
+def update_possibles():
+    pass
 #Start
 
 print("Sudoku Solver with bruteforce method")
